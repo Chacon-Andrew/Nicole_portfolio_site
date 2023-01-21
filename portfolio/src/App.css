@@ -1,0 +1,73 @@
+@font-face {
+    font-family: mont;
+    src: url(./static/Montserrat-Bold.ttf);
+}
+
+.mont{
+    font-family: 'mont';
+}
+
+
+.link{
+    color: black;
+}
+
+.link:hover{
+    color: #FFFFFF;
+}
+
+.circle {
+    height: 600px;
+    width: 600px;
+    border-radius: 50%;
+    background-color: aliceblue;
+}
+
+.pcircle {
+    height: 600px;
+    width: 600px;
+    border-radius: 50%;
+    background-color: #FA7F82;
+}
+
+.prectangle {
+    height: 600px;
+    width: 500px;
+}
+
+.text {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: #FA7F82;
+}
+
+
+.project_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.projectpics {
+    height: 400px;
+    width: 950px;
+    border-radius: 250px 0px 0px 250px;
+}
+.projectpics_2 {
+    height: 400px;
+    width: 950px;
+    border-radius: 0px 250px 250px 0px;
+}
+
+.projecttext {
+    color: #FFFFFF;
+    font-size: 25px;
+    font-family: 'mont';
+}
+
+.project_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}

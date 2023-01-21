@@ -13,11 +13,11 @@ const Contact = () => {
           <h1 className='mont' style={{color: '#FA7F82', fontSize: '50px'}}>Contact</h1>
           <div style={{display: 'flex', flexDirection: 'row', justifyContent: 'flex-start', marginBottom: '2rem', marginTop: '2rem'}}>
             <img src={pic} alt='linkedIn icon'/>
-            <p className='mont' style={{marginLeft: '2rem'}}>www.linkedin.com/in/nicole-turkalj/</p>
+            <p className='mont' style={{marginLeft: '2rem'}}>www.linkedin.com/in/nicole-buchanan/</p>
           </div>
           <div style={{display: 'flex', flexDirection: 'row', justifyContent: 'flex-start', marginBottom: '2rem', marginTop: '2rem'}}>
             <img src={pic_2} alt='email icon'/>
-            <p className='mont' style={{marginLeft: '2rem'}}>nicoleturkalj@outlook.com</p>
+            <p className='mont' style={{marginLeft: '2rem'}}>nicolebuchanan@outlook.com</p>
           </div>
         </div>
         <div style={{height: '25vh', width: '100%'}}>
